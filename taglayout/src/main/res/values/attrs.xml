@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagLayout">
+        <attr name="pressedColor" format="color"></attr>
+        <attr name="normalColor" format="color"></attr>
+        <attr name="tagColor" format="color"></attr>
+        <attr name="verticalSpacing" format="dimension"></attr>
+        <attr name="horizontalSpacing" format="dimension"></attr>
+        <attr name="corner" format="dimension"></attr>
+    </declare-styleable>
+</resources>
