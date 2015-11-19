@@ -2,7 +2,10 @@
 一个自定义的标签控件  
 ![](https://github.com/iKrelve/TagLayout/blob/master/1.png?raw=true)  
 #####用法:  
-
+* build.gradle:  
+```xml
+	compile 'krelve.taglayout:taglayout:0.0.1'
+```
 * 添加布局文件:  
 ```xml
         <krelve.view.TagLayout
